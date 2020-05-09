@@ -1,0 +1,320 @@
+{'word': 'abstract', 'part_speech': ' n', 'meaning': ' 摘要,抽象的东西\nadj'}
+{'word': 'abstraction', 'part_speech': ' n', 'meaning': ' 抽象, 抽象概念, 心不在焉'}
+{'word': 'accomplish', 'part_speech': ' vt', 'meaning': ' 完成'}
+{'word': 'accuracy', 'part_speech': ' n', 'meaning': ' 准确(性), 精确度'}
+{'word': 'affiliated', 'part_speech': ' adj', 'meaning': ' 附属的, 有关连的'}
+{'word': 'algorithm', 'part_speech': ' n', 'meaning': ' 算法'}
+{'word': 'algorithmic', 'part_speech': ' adj', 'meaning': '[计]算法的,规则系统的'}
+{'word': 'alias', 'part_speech': ' n', 'meaning': ' 别名,化名\nadv'}
+{'word': 'aliasing', 'part_speech': ' n', 'meaning': ' 图形失真，声音失真'}
+{'word': 'allocate', 'part_speech': ' v', 'meaning': ' 分派, 分配, 分配额'}
+{'word': 'alternative', 'part_speech': ' adj', 'meaning': ' 两者择一的; 供选择的; 非主流的\nn'}
+{'word': 'ambiguous', 'part_speech': ' adj', 'meaning': ' 模棱两可的'}
+{'word': 'anticipate', 'part_speech': ' vt', 'meaning': ' 预期，期望；占先，抢先；提前使用'}
+{'word': 'apparatus', 'part_speech': ' n', 'meaning': ' 装置, 器具, 机构, 组织'}
+{'word': 'arbitrary', 'part_speech': ' adj', 'meaning': ' 任意的, 专制的, 武断的, 霸道的'}
+{'word': 'archery', 'part_speech': ' n', 'meaning': ' 箭术'}
+{'word': 'architecture', 'part_speech': ' n', 'meaning': ' 建筑学, 建筑业, 建筑物, 结构\n [总称]建筑物, 建筑风格'}
+{'word': 'argument', 'part_speech': ' n', 'meaning': ' 辩论,争论,论点(据),理由'}
+{'word': 'arithmetic', 'part_speech': ' n', 'meaning': ' 算术'}
+{'word': 'ascending', 'part_speech': ' adj', 'meaning': ' 上升的\r\n动词ascend的现在分词'}
+{'word': 'assert', 'part_speech': ' vt', 'meaning': ' 主张,声明,断言'}
+{'word': 'assignment', 'part_speech': ' n', 'meaning': ' 分配,功课,任务,被指定的(课外)作业;(分派的)任务, 委派'}
+{'word': 'asymptotic', 'part_speech': ' adj', 'meaning': '[数]渐近线的,渐近的'}
+{'word': 'automobile', 'part_speech': ' n', 'meaning': ' 汽车\nadj'}
+{'word': 'balance', 'part_speech': ' n', 'meaning': ' 天平, 平衡, 差额, 平静, 调和, 制衡\nvt'}
+{'word': 'binary', 'part_speech': ' adj', 'meaning': ' 二进位的,二元的\nn'}
+{'word': 'bind', 'part_speech': ' vt', 'meaning': ' 绑,约束,装订,粘合'}
+{'word': 'bisection', 'part_speech': ' n', 'meaning': '两断,对分'}
+{'word': 'blank', 'part_speech': ' adj', 'meaning': ' 空白的, 茫然的, 全部的, 面无表情的, 未完工的\nn'}
+{'word': 'block', 'part_speech': ' n', 'meaning': '块； 街区； <英>大楼，大厦； 障碍物，阻碍\nvt'}
+{'word': 'bookmark', 'part_speech': ' n', 'meaning': ' 书签'}
+{'word': 'bound', 'part_speech': ' n', 'meaning': ' 跳跃,界限,范围\nadj'}
+{'word': 'bundle', 'part_speech': ' n', 'meaning': ' 捆,束,一批,一大笔钱\nvt'}
+{'word': 'calculator', 'part_speech': ' n', 'meaning': ' 计算器'}
+{'word': 'canopy', 'part_speech': ' n', 'meaning': ' 天篷, 遮篷, 苍穹'}
+{'word': 'capitalize', 'part_speech': ' v', 'meaning': ' 以大写字母写, 使'}
+{'word': 'capture', 'part_speech': ' n', 'meaning': ' 抓取,战利品,捕获之物\nvt'}
+{'word': 'cardiovascular', 'part_speech': ' adj', 'meaning': ' 心脏血管的'}
+{'word': 'cascade', 'part_speech': ' n', 'meaning': ' 瀑布，[电]串联\nv'}
+{'word': 'category', 'part_speech': ' n', 'meaning': ' 种类, 类别'}
+{'word': 'checker', 'part_speech': ' n', 'meaning': ' &lt;古&gt;西洋棋, 棋子\nn'}
+{'word': 'circumference', 'part_speech': ' n', 'meaning': ' 圆周, 周围, 胸围'}
+{'word': 'clause', 'part_speech': ' n', 'meaning': ' 分句, 从句, 条款, 款项'}
+{'word': 'clue', 'part_speech': ' n', 'meaning': ' 线索\nvt'}
+{'word': 'cluster', 'part_speech': ' n', 'meaning': ' 串,丛,群\nv'}
+{'word': 'code', 'part_speech': ' n', 'meaning': ' 码,密码,法规,准则\nvt'}
+{'word': 'coherent', 'part_speech': ' adj', 'meaning': ' 互相耦合的,清晰的，明了的，凝聚性的,连贯的'}
+{'word': 'collection', 'part_speech': ' n', 'meaning': ' 收藏品,收集物,小组,集合'}
+{'word': 'comma', 'part_speech': ' n', 'meaning': ' 逗号，停顿，间歇\nn'}
+{'word': 'command', 'part_speech': ' n', 'meaning': '命令，指挥； 司令部，指挥部； [计算机]指令； 控制力\nvt'}
+{'word': 'comparison', 'part_speech': ' n', 'meaning': ' 比较'}
+{'word': 'compiler', 'part_speech': ' n', 'meaning': ' 编辑者，[计算机]编译器, 编译程序'}
+{'word': 'complexity', 'part_speech': ' n', 'meaning': ' 复杂，复杂性, 复杂的事物'}
+{'word': 'compound', 'part_speech': ' n', 'meaning': ' 混合物,复合词\nadj'}
+{'word': 'computable', 'part_speech': ' adj', 'meaning': ' 可计算的'}
+{'word': 'computation', 'part_speech': ' n', 'meaning': ' 计算，计算机的使用，计算方法，计算结果'}
+{'word': 'computational', 'part_speech': ' adj', 'meaning': ' 计算的，电脑的'}
+{'word': 'compute', 'part_speech': ' vt', 'meaning': ' 计算'}
+{'word': 'concatenate', 'part_speech': ' v', 'meaning': ' 连结,连锁\nadj'}
+{'word': 'concatenation', 'part_speech': ' n', 'meaning': ' 连结, 一连串'}
+{'word': 'conceptualize', 'part_speech': ' vt', 'meaning': ' 概念化'}
+{'word': 'conditional', 'part_speech': ' adj', 'meaning': ' 有条件的, 假定的，假设的\nn'}
+{'word': 'configuration', 'part_speech': ' n', 'meaning': ' 结构,布局,形态,格式塔心理完形\n[计算机] 配置'}
+{'word': 'conform', 'part_speech': ' vt', 'meaning': ' 使一致,遵守,使顺从\nvi'}
+{'word': 'conquer', 'part_speech': ' vt', 'meaning': ' 征服, 战胜, 克服\nvi'}
+{'word': 'console', 'part_speech': ' vt', 'meaning': ' 安慰,慰藉\nn'}
+{'word': 'construct', 'part_speech': ' vt', 'meaning': ' 构造,绘制,建造,想出\nn'}
+{'word': 'convert', 'part_speech': ' v', 'meaning': ' 使转变, 使'}
+{'word': 'correspond', 'part_speech': ' vi', 'meaning': ' 符合,通信,相当'}
+{'word': 'corresponding', 'part_speech': ' adj', 'meaning': ' 符合的, 一致的, 相同的, 相应的, 相当的'}
+{'word': 'covert', 'part_speech': ' adj', 'meaning': ' 隐蔽的, 偷偷摸摸的, 隐密的n'}
+{'word': 'crash', 'part_speech': ' v', 'meaning': ' 撞碎, 猛使'}
+{'word': 'crucial', 'part_speech': ' adj', 'meaning': ' 关键的,决定性的'}
+{'word': 'cube', 'part_speech': ' n', 'meaning': ' 立方体,立方\nvt'}
+{'word': 'cumbersome', 'part_speech': ' adj', 'meaning': ' 笨重的'}
+{'word': 'current', 'part_speech': ' n', 'meaning': ' (水、气、电)流, 趋势\nadj'}
+{'word': 'debug', 'part_speech': ' v', 'meaning': '调试，驱除（某处的)害虫，排除障碍，纠正'}
+{'word': 'decimal', 'part_speech': ' adj', 'meaning': ' 十进位的,小数的\nn'}
+{'word': 'declarative', 'part_speech': ' adj', 'meaning': ' 宣言的，布告的, 说明的, 陈述的, 演说的'}
+{'word': 'decode', 'part_speech': ' v', 'meaning': ' 解码, 译解\n[计算机] 译码'}
+{'word': 'deduce', 'part_speech': ' vt', 'meaning': ' 演绎,推断,溯源'}
+{'word': 'default', 'part_speech': ' n', 'meaning': ' 假设值,默认(值),不履行责任,缺席\nv'}
+{'word': 'defensive', 'part_speech': ' adj', 'meaning': ' 防卫的, 防备用的, 辩护的\nn'}
+{'word': 'demo', 'part_speech': ' n', 'meaning': ' 示威, 样本唱片'}
+{'word': 'denote', 'part_speech': ' vt', 'meaning': ' 象征,表示'}
+{'word': 'deposit', 'part_speech': ' vt', 'meaning': ' 存放, 堆积, 使沉淀\nvi'}
+{'word': 'derivative', 'part_speech': ' adj', 'meaning': ' 引出的,系出的\nn'}
+{'word': 'deviation', 'part_speech': ' n', 'meaning': ' 偏差数, 偏离，出轨，背盟'}
+{'word': 'diagram', 'part_speech': ' n', 'meaning': ' 图解,图表\nvt'}
+{'word': 'dictionary', 'part_speech': ' n', 'meaning': ' 词典, 字典, 辞典'}
+{'word': 'difference', 'part_speech': ' n', 'meaning': ' 差异,分歧\nvt'}
+{'word': 'disc', 'part_speech': ' n', 'meaning': ' 圆盘，[电子] 唱片（等于disk）\r\n    vt'}
+{'word': 'discretion', 'part_speech': ' n', 'meaning': ' 谨慎,判断力,个人选择,选择的自由\n[计算机] 判定'}
+{'word': 'disregard', 'part_speech': ' n', 'meaning': ' 不理会, 漠视\nvt'}
+{'word': 'distinct', 'part_speech': ' adj', 'meaning': ' (from)独特的,不同的,明显的,清楚的'}
+{'word': 'distribution', 'part_speech': ' n', 'meaning': ' 分发, 分配, 散布, 分布'}
+{'word': 'division', 'part_speech': ' n', 'meaning': ' 区分,分开,除法,公司,部门，师（军队里）'}
+{'word': 'divisor', 'part_speech': ' n', 'meaning': ' 除数'}
+{'word': 'doctorate', 'part_speech': ' n', 'meaning': ' 博士学位'}
+{'word': 'documentation', 'part_speech': ' n', 'meaning': ' 文件'}
+{'word': 'driver', 'part_speech': ' n', 'meaning': ' 驾驶员, 司机'}
+{'word': 'dub', 'part_speech': ' vt', 'meaning': ' 配音；轻点；打击；授予称号\nn'}
+{'word': 'duplicate', 'part_speech': ' n', 'meaning': ' 副本,复制品\nadj'}
+{'word': 'ease', 'part_speech': ' n', 'meaning': ' 安乐,安逸,悠闲\nvt'}
+{'word': 'editor', 'part_speech': ' n', 'meaning': ' 编辑, 编者'}
+{'word': 'encapsulate', 'part_speech': ' v', 'meaning': ' 装入胶囊, 封进内部, 压缩'}
+{'word': 'endpoint', 'part_speech': ' n', 'meaning': ' 端点，[化]滴定终点'}
+{'word': 'engage', 'part_speech': 'v', 'meaning': ' 啮合；雇用；聘用；吸引住（注意力、兴趣）；参与，从事'}
+{'word': 'enigma', 'part_speech': ' n', 'meaning': ' 费解的事情，谜，谜一般的人'}
+{'word': 'enroll', 'part_speech': ' vt', 'meaning': ' &vi'}
+{'word': 'entry', 'part_speech': ' n', 'meaning': ' 进入,入口,登记,项目'}
+{'word': 'enumeration', 'part_speech': ' n', 'meaning': '列举'}
+{'word': 'environment', 'part_speech': ' n', 'meaning': ' 环境,外界'}
+{'word': 'epsilon', 'part_speech': ' n', 'meaning': ' 希腊语字母之第五字, [数]小的正数'}
+{'word': 'equivalent', 'part_speech': ' adj', 'meaning': ' 等价的, 相等的\nn'}
+{'word': 'essentially', 'part_speech': ' adv', 'meaning': ' 本质上,本来'}
+{'word': 'evaluate', 'part_speech': ' vt', 'meaning': ' 评估,评价'}
+{'word': 'exception', 'part_speech': ' n', 'meaning': ' 除外,例外'}
+{'word': 'execute', 'part_speech': ' vt', 'meaning': ' 执行,处决，实行,完成\n[计算机] 执行'}
+{'word': 'exhaustive', 'part_speech': ' adj', 'meaning': ' 无遗漏的, 彻底的, 详尽的'}
+{'word': 'exponentiation', 'part_speech': ' n', 'meaning': ' [数]求幂'}
+{'word': 'exterminate', 'part_speech': ' vt', 'meaning': ' 扑灭, 消灭, 根绝'}
+{'word': 'factorial', 'part_speech': ' adj', 'meaning': ' 阶乘的，因数的\nn'}
+{'word': 'fetal', 'part_speech': ' adj', 'meaning': ' 胎儿的,胎的'}
+{'word': 'fix', 'part_speech': ' vt', 'meaning': ' &vi'}
+{'word': 'flag', 'part_speech': ' n', 'meaning': ' 旗标,旗子,信号旗\nvt'}
+{'word': 'flexibility', 'part_speech': ' n', 'meaning': ' 灵活性, 柔韧性，适应性'}
+{'word': 'float', 'part_speech': ' n', 'meaning': ' 漂流物,装有轮子的展台或平板车,企业的日常零钱\nvt'}
+{'word': 'formalism', 'part_speech': ' n', 'meaning': ' 拘泥形式, 形式主义, 虚礼'}
+{'word': 'fraction', 'part_speech': ' n', 'meaning': ' 分数, 小部分, 破片'}
+{'word': 'frame', 'part_speech': ' n', 'meaning': ' 框,结构,骨架\nv'}
+{'word': 'generalization', 'part_speech': ' n', 'meaning': ' 一般化, 普遍化, 概括，泛论'}
+{'word': 'generate', 'part_speech': ' vt', 'meaning': ' 产生,发生,引起\n[计算机] 产生'}
+{'word': 'gestation', 'part_speech': ' n', 'meaning': ' 怀孕, 孕育时期'}
+{'word': 'gigabyte', 'part_speech': ' n', 'meaning': ' 千兆字节'}
+{'word': 'guarantee', 'part_speech': ' n', 'meaning': ' 保证(书), 担保(书)\nn'}
+{'word': 'halt', 'part_speech': ' n', 'meaning': ' 停止，中止; 暂停; 小火车站\nvt'}
+{'word': 'handle', 'part_speech': ' n', 'meaning': ' 柄,把手\nvt'}
+{'word': 'handler', 'part_speech': ' n', 'meaning': ' 处理者，处理器\nn'}
+{'word': 'hence', 'part_speech': ' adv', 'meaning': ' 今后, 从此, 因此, 所以'}
+{'word': 'hierarchy', 'part_speech': ' n', 'meaning': ' 等级制度，层级[计],统治集团'}
+{'word': 'hint', 'part_speech': ' n', 'meaning': ' 暗示,提示,小部分\nvt'}
+{'word': 'hypothesis', 'part_speech': ' n', 'meaning': ' 假设, 猜测, 前提'}
+{'word': 'identifier', 'part_speech': ' n', 'meaning': ' 标识符'}
+{'word': 'illustrate', 'part_speech': ' vt', 'meaning': ' 举例说明,作图解\nvi'}
+{'word': 'immutable', 'part_speech': ' adj', 'meaning': ' 不可变的,不变的,不能变的'}
+{'word': 'imperative', 'part_speech': ' n', 'meaning': ' 命令, 诫命, 需要\nadj'}
+{'word': 'implement', 'part_speech': ' n', 'meaning': ' 工具, 器具; 当工具的物品\nvt'}
+{'word': 'implementation', 'part_speech': ' n', 'meaning': '执行'}
+{'word': 'implication', 'part_speech': ' n', 'meaning': ' 暗示,含意'}
+{'word': 'import', 'part_speech': ' n', 'meaning': ' 进口\nvi'}
+{'word': 'inclusive', 'part_speech': ' adj', 'meaning': ' 包含'}
+{'word': 'incorporate', 'part_speech': ' vt', 'meaning': '组成公司； 包含； 使混合； 使具体化\nvi'}
+{'word': 'increment', 'part_speech': ' n', 'meaning': ' 增加(增加物, 增量, 余差)'}
+{'word': 'indentation', 'part_speech': ' n', 'meaning': ' 刻痕，印压, 缩进, （海岸线等）凹进处'}
+{'word': 'index', 'part_speech': ' n', 'meaning': '索引； <数>指数； 指示； 标志\nvt'}
+{'word': 'indicate', 'part_speech': ' v', 'meaning': '指明, 表明, 显示, 象征, 指示'}
+{'word': 'indication', 'part_speech': ' n', 'meaning': ' 象征,迹象,指示,表示'}
+{'word': 'indirection', 'part_speech': ' n', 'meaning': ' 间接, 不坦率，欺骗，漫无目标'}
+{'word': 'induction', 'part_speech': ' n', 'meaning': ' 就职,感应,归纳法,序言'}
+{'word': 'abstract', 'part_speech': ' n', 'meaning': ' 摘要,抽象的东西\nadj'}
+{'word': 'abstraction', 'part_speech': ' n', 'meaning': ' 抽象, 抽象概念, 心不在焉'}
+{'word': 'accomplish', 'part_speech': ' vt', 'meaning': ' 完成'}
+{'word': 'accuracy', 'part_speech': ' n', 'meaning': ' 准确(性), 精确度'}
+{'word': 'affiliated', 'part_speech': ' adj', 'meaning': ' 附属的, 有关连的'}
+{'word': 'algorithm', 'part_speech': ' n', 'meaning': ' 算法'}
+{'word': 'algorithmic', 'part_speech': ' adj', 'meaning': '[计]算法的,规则系统的'}
+{'word': 'alias', 'part_speech': ' n', 'meaning': ' 别名,化名\nadv'}
+{'word': 'aliasing', 'part_speech': ' n', 'meaning': ' 图形失真，声音失真'}
+{'word': 'allocate', 'part_speech': ' v', 'meaning': ' 分派, 分配, 分配额'}
+{'word': 'alternative', 'part_speech': ' adj', 'meaning': ' 两者择一的; 供选择的; 非主流的\nn'}
+{'word': 'ambiguous', 'part_speech': ' adj', 'meaning': ' 模棱两可的'}
+{'word': 'anticipate', 'part_speech': ' vt', 'meaning': ' 预期，期望；占先，抢先；提前使用'}
+{'word': 'apparatus', 'part_speech': ' n', 'meaning': ' 装置, 器具, 机构, 组织'}
+{'word': 'arbitrary', 'part_speech': ' adj', 'meaning': ' 任意的, 专制的, 武断的, 霸道的'}
+{'word': 'archery', 'part_speech': ' n', 'meaning': ' 箭术'}
+{'word': 'architecture', 'part_speech': ' n', 'meaning': ' 建筑学, 建筑业, 建筑物, 结构\n [总称]建筑物, 建筑风格'}
+{'word': 'argument', 'part_speech': ' n', 'meaning': ' 辩论,争论,论点(据),理由'}
+{'word': 'arithmetic', 'part_speech': ' n', 'meaning': ' 算术'}
+{'word': 'ascending', 'part_speech': ' adj', 'meaning': ' 上升的\r\n动词ascend的现在分词'}
+{'word': 'assert', 'part_speech': ' vt', 'meaning': ' 主张,声明,断言'}
+{'word': 'assignment', 'part_speech': ' n', 'meaning': ' 分配,功课,任务,被指定的(课外)作业;(分派的)任务, 委派'}
+{'word': 'asymptotic', 'part_speech': ' adj', 'meaning': '[数]渐近线的,渐近的'}
+{'word': 'automobile', 'part_speech': ' n', 'meaning': ' 汽车\nadj'}
+{'word': 'balance', 'part_speech': ' n', 'meaning': ' 天平, 平衡, 差额, 平静, 调和, 制衡\nvt'}
+{'word': 'binary', 'part_speech': ' adj', 'meaning': ' 二进位的,二元的\nn'}
+{'word': 'bind', 'part_speech': ' vt', 'meaning': ' 绑,约束,装订,粘合'}
+{'word': 'bisection', 'part_speech': ' n', 'meaning': '两断,对分'}
+{'word': 'blank', 'part_speech': ' adj', 'meaning': ' 空白的, 茫然的, 全部的, 面无表情的, 未完工的\nn'}
+{'word': 'block', 'part_speech': ' n', 'meaning': '块； 街区； <英>大楼，大厦； 障碍物，阻碍\nvt'}
+{'word': 'bookmark', 'part_speech': ' n', 'meaning': ' 书签'}
+{'word': 'bound', 'part_speech': ' n', 'meaning': ' 跳跃,界限,范围\nadj'}
+{'word': 'bundle', 'part_speech': ' n', 'meaning': ' 捆,束,一批,一大笔钱\nvt'}
+{'word': 'calculator', 'part_speech': ' n', 'meaning': ' 计算器'}
+{'word': 'canopy', 'part_speech': ' n', 'meaning': ' 天篷, 遮篷, 苍穹'}
+{'word': 'capitalize', 'part_speech': ' v', 'meaning': ' 以大写字母写, 使'}
+{'word': 'capture', 'part_speech': ' n', 'meaning': ' 抓取,战利品,捕获之物\nvt'}
+{'word': 'cardiovascular', 'part_speech': ' adj', 'meaning': ' 心脏血管的'}
+{'word': 'cascade', 'part_speech': ' n', 'meaning': ' 瀑布，[电]串联\nv'}
+{'word': 'category', 'part_speech': ' n', 'meaning': ' 种类, 类别'}
+{'word': 'checker', 'part_speech': ' n', 'meaning': ' &lt;古&gt;西洋棋, 棋子\nn'}
+{'word': 'circumference', 'part_speech': ' n', 'meaning': ' 圆周, 周围, 胸围'}
+{'word': 'clause', 'part_speech': ' n', 'meaning': ' 分句, 从句, 条款, 款项'}
+{'word': 'clue', 'part_speech': ' n', 'meaning': ' 线索\nvt'}
+{'word': 'cluster', 'part_speech': ' n', 'meaning': ' 串,丛,群\nv'}
+{'word': 'code', 'part_speech': ' n', 'meaning': ' 码,密码,法规,准则\nvt'}
+{'word': 'coherent', 'part_speech': ' adj', 'meaning': ' 互相耦合的,清晰的，明了的，凝聚性的,连贯的'}
+{'word': 'collection', 'part_speech': ' n', 'meaning': ' 收藏品,收集物,小组,集合'}
+{'word': 'comma', 'part_speech': ' n', 'meaning': ' 逗号，停顿，间歇\nn'}
+{'word': 'command', 'part_speech': ' n', 'meaning': '命令，指挥； 司令部，指挥部； [计算机]指令； 控制力\nvt'}
+{'word': 'comparison', 'part_speech': ' n', 'meaning': ' 比较'}
+{'word': 'compiler', 'part_speech': ' n', 'meaning': ' 编辑者，[计算机]编译器, 编译程序'}
+{'word': 'complexity', 'part_speech': ' n', 'meaning': ' 复杂，复杂性, 复杂的事物'}
+{'word': 'compound', 'part_speech': ' n', 'meaning': ' 混合物,复合词\nadj'}
+{'word': 'computable', 'part_speech': ' adj', 'meaning': ' 可计算的'}
+{'word': 'computation', 'part_speech': ' n', 'meaning': ' 计算，计算机的使用，计算方法，计算结果'}
+{'word': 'computational', 'part_speech': ' adj', 'meaning': ' 计算的，电脑的'}
+{'word': 'compute', 'part_speech': ' vt', 'meaning': ' 计算'}
+{'word': 'concatenate', 'part_speech': ' v', 'meaning': ' 连结,连锁\nadj'}
+{'word': 'concatenation', 'part_speech': ' n', 'meaning': ' 连结, 一连串'}
+{'word': 'conceptualize', 'part_speech': ' vt', 'meaning': ' 概念化'}
+{'word': 'conditional', 'part_speech': ' adj', 'meaning': ' 有条件的, 假定的，假设的\nn'}
+{'word': 'configuration', 'part_speech': ' n', 'meaning': ' 结构,布局,形态,格式塔心理完形\n[计算机] 配置'}
+{'word': 'conform', 'part_speech': ' vt', 'meaning': ' 使一致,遵守,使顺从\nvi'}
+{'word': 'conquer', 'part_speech': ' vt', 'meaning': ' 征服, 战胜, 克服\nvi'}
+{'word': 'console', 'part_speech': ' vt', 'meaning': ' 安慰,慰藉\nn'}
+{'word': 'construct', 'part_speech': ' vt', 'meaning': ' 构造,绘制,建造,想出\nn'}
+{'word': 'convert', 'part_speech': ' v', 'meaning': ' 使转变, 使'}
+{'word': 'correspond', 'part_speech': ' vi', 'meaning': ' 符合,通信,相当'}
+{'word': 'corresponding', 'part_speech': ' adj', 'meaning': ' 符合的, 一致的, 相同的, 相应的, 相当的'}
+{'word': 'covert', 'part_speech': ' adj', 'meaning': ' 隐蔽的, 偷偷摸摸的, 隐密的n'}
+{'word': 'crash', 'part_speech': ' v', 'meaning': ' 撞碎, 猛使'}
+{'word': 'crucial', 'part_speech': ' adj', 'meaning': ' 关键的,决定性的'}
+{'word': 'cube', 'part_speech': ' n', 'meaning': ' 立方体,立方\nvt'}
+{'word': 'cumbersome', 'part_speech': ' adj', 'meaning': ' 笨重的'}
+{'word': 'current', 'part_speech': ' n', 'meaning': ' (水、气、电)流, 趋势\nadj'}
+{'word': 'debug', 'part_speech': ' v', 'meaning': '调试，驱除（某处的)害虫，排除障碍，纠正'}
+{'word': 'decimal', 'part_speech': ' adj', 'meaning': ' 十进位的,小数的\nn'}
+{'word': 'declarative', 'part_speech': ' adj', 'meaning': ' 宣言的，布告的, 说明的, 陈述的, 演说的'}
+{'word': 'decode', 'part_speech': ' v', 'meaning': ' 解码, 译解\n[计算机] 译码'}
+{'word': 'deduce', 'part_speech': ' vt', 'meaning': ' 演绎,推断,溯源'}
+{'word': 'default', 'part_speech': ' n', 'meaning': ' 假设值,默认(值),不履行责任,缺席\nv'}
+{'word': 'defensive', 'part_speech': ' adj', 'meaning': ' 防卫的, 防备用的, 辩护的\nn'}
+{'word': 'demo', 'part_speech': ' n', 'meaning': ' 示威, 样本唱片'}
+{'word': 'denote', 'part_speech': ' vt', 'meaning': ' 象征,表示'}
+{'word': 'deposit', 'part_speech': ' vt', 'meaning': ' 存放, 堆积, 使沉淀\nvi'}
+{'word': 'derivative', 'part_speech': ' adj', 'meaning': ' 引出的,系出的\nn'}
+{'word': 'deviation', 'part_speech': ' n', 'meaning': ' 偏差数, 偏离，出轨，背盟'}
+{'word': 'diagram', 'part_speech': ' n', 'meaning': ' 图解,图表\nvt'}
+{'word': 'dictionary', 'part_speech': ' n', 'meaning': ' 词典, 字典, 辞典'}
+{'word': 'difference', 'part_speech': ' n', 'meaning': ' 差异,分歧\nvt'}
+{'word': 'disc', 'part_speech': ' n', 'meaning': ' 圆盘，[电子] 唱片（等于disk）\r\n    vt'}
+{'word': 'discretion', 'part_speech': ' n', 'meaning': ' 谨慎,判断力,个人选择,选择的自由\n[计算机] 判定'}
+{'word': 'disregard', 'part_speech': ' n', 'meaning': ' 不理会, 漠视\nvt'}
+{'word': 'distinct', 'part_speech': ' adj', 'meaning': ' (from)独特的,不同的,明显的,清楚的'}
+{'word': 'distribution', 'part_speech': ' n', 'meaning': ' 分发, 分配, 散布, 分布'}
+{'word': 'division', 'part_speech': ' n', 'meaning': ' 区分,分开,除法,公司,部门，师（军队里）'}
+{'word': 'divisor', 'part_speech': ' n', 'meaning': ' 除数'}
+{'word': 'doctorate', 'part_speech': ' n', 'meaning': ' 博士学位'}
+{'word': 'documentation', 'part_speech': ' n', 'meaning': ' 文件'}
+{'word': 'driver', 'part_speech': ' n', 'meaning': ' 驾驶员, 司机'}
+{'word': 'dub', 'part_speech': ' vt', 'meaning': ' 配音；轻点；打击；授予称号\nn'}
+{'word': 'duplicate', 'part_speech': ' n', 'meaning': ' 副本,复制品\nadj'}
+{'word': 'ease', 'part_speech': ' n', 'meaning': ' 安乐,安逸,悠闲\nvt'}
+{'word': 'editor', 'part_speech': ' n', 'meaning': ' 编辑, 编者'}
+{'word': 'encapsulate', 'part_speech': ' v', 'meaning': ' 装入胶囊, 封进内部, 压缩'}
+{'word': 'endpoint', 'part_speech': ' n', 'meaning': ' 端点，[化]滴定终点'}
+{'word': 'engage', 'part_speech': 'v', 'meaning': ' 啮合；雇用；聘用；吸引住（注意力、兴趣）；参与，从事'}
+{'word': 'enigma', 'part_speech': ' n', 'meaning': ' 费解的事情，谜，谜一般的人'}
+{'word': 'enroll', 'part_speech': ' vt', 'meaning': ' &vi'}
+{'word': 'entry', 'part_speech': ' n', 'meaning': ' 进入,入口,登记,项目'}
+{'word': 'enumeration', 'part_speech': ' n', 'meaning': '列举'}
+{'word': 'environment', 'part_speech': ' n', 'meaning': ' 环境,外界'}
+{'word': 'epsilon', 'part_speech': ' n', 'meaning': ' 希腊语字母之第五字, [数]小的正数'}
+{'word': 'equivalent', 'part_speech': ' adj', 'meaning': ' 等价的, 相等的\nn'}
+{'word': 'essentially', 'part_speech': ' adv', 'meaning': ' 本质上,本来'}
+{'word': 'evaluate', 'part_speech': ' vt', 'meaning': ' 评估,评价'}
+{'word': 'exception', 'part_speech': ' n', 'meaning': ' 除外,例外'}
+{'word': 'execute', 'part_speech': ' vt', 'meaning': ' 执行,处决，实行,完成\n[计算机] 执行'}
+{'word': 'exhaustive', 'part_speech': ' adj', 'meaning': ' 无遗漏的, 彻底的, 详尽的'}
+{'word': 'exponentiation', 'part_speech': ' n', 'meaning': ' [数]求幂'}
+{'word': 'exterminate', 'part_speech': ' vt', 'meaning': ' 扑灭, 消灭, 根绝'}
+{'word': 'factorial', 'part_speech': ' adj', 'meaning': ' 阶乘的，因数的\nn'}
+{'word': 'fetal', 'part_speech': ' adj', 'meaning': ' 胎儿的,胎的'}
+{'word': 'fix', 'part_speech': ' vt', 'meaning': ' &vi'}
+{'word': 'flag', 'part_speech': ' n', 'meaning': ' 旗标,旗子,信号旗\nvt'}
+{'word': 'flexibility', 'part_speech': ' n', 'meaning': ' 灵活性, 柔韧性，适应性'}
+{'word': 'float', 'part_speech': ' n', 'meaning': ' 漂流物,装有轮子的展台或平板车,企业的日常零钱\nvt'}
+{'word': 'formalism', 'part_speech': ' n', 'meaning': ' 拘泥形式, 形式主义, 虚礼'}
+{'word': 'fraction', 'part_speech': ' n', 'meaning': ' 分数, 小部分, 破片'}
+{'word': 'frame', 'part_speech': ' n', 'meaning': ' 框,结构,骨架\nv'}
+{'word': 'generalization', 'part_speech': ' n', 'meaning': ' 一般化, 普遍化, 概括，泛论'}
+{'word': 'generate', 'part_speech': ' vt', 'meaning': ' 产生,发生,引起\n[计算机] 产生'}
+{'word': 'gestation', 'part_speech': ' n', 'meaning': ' 怀孕, 孕育时期'}
+{'word': 'gigabyte', 'part_speech': ' n', 'meaning': ' 千兆字节'}
+{'word': 'guarantee', 'part_speech': ' n', 'meaning': ' 保证(书), 担保(书)\nn'}
+{'word': 'halt', 'part_speech': ' n', 'meaning': ' 停止，中止; 暂停; 小火车站\nvt'}
+{'word': 'handle', 'part_speech': ' n', 'meaning': ' 柄,把手\nvt'}
+{'word': 'handler', 'part_speech': ' n', 'meaning': ' 处理者，处理器\nn'}
+{'word': 'hence', 'part_speech': ' adv', 'meaning': ' 今后, 从此, 因此, 所以'}
+{'word': 'hierarchy', 'part_speech': ' n', 'meaning': ' 等级制度，层级[计],统治集团'}
+{'word': 'hint', 'part_speech': ' n', 'meaning': ' 暗示,提示,小部分\nvt'}
+{'word': 'hypothesis', 'part_speech': ' n', 'meaning': ' 假设, 猜测, 前提'}
+{'word': 'identifier', 'part_speech': ' n', 'meaning': ' 标识符'}
+{'word': 'illustrate', 'part_speech': ' vt', 'meaning': ' 举例说明,作图解\nvi'}
+{'word': 'immutable', 'part_speech': ' adj', 'meaning': ' 不可变的,不变的,不能变的'}
+{'word': 'imperative', 'part_speech': ' n', 'meaning': ' 命令, 诫命, 需要\nadj'}
+{'word': 'implement', 'part_speech': ' n', 'meaning': ' 工具, 器具; 当工具的物品\nvt'}
+{'word': 'implementation', 'part_speech': ' n', 'meaning': '执行'}
+{'word': 'implication', 'part_speech': ' n', 'meaning': ' 暗示,含意'}
+{'word': 'import', 'part_speech': ' n', 'meaning': ' 进口\nvi'}
+{'word': 'inclusive', 'part_speech': ' adj', 'meaning': ' 包含'}
+{'word': 'incorporate', 'part_speech': ' vt', 'meaning': '组成公司； 包含； 使混合； 使具体化\nvi'}
+{'word': 'increment', 'part_speech': ' n', 'meaning': ' 增加(增加物, 增量, 余差)'}
+{'word': 'indentation', 'part_speech': ' n', 'meaning': ' 刻痕，印压, 缩进, （海岸线等）凹进处'}
+{'word': 'index', 'part_speech': ' n', 'meaning': '索引； <数>指数； 指示； 标志\nvt'}
+{'word': 'indicate', 'part_speech': ' v', 'meaning': '指明, 表明, 显示, 象征, 指示'}
+{'word': 'indication', 'part_speech': ' n', 'meaning': ' 象征,迹象,指示,表示'}
+{'word': 'indirection', 'part_speech': ' n', 'meaning': ' 间接, 不坦率，欺骗，漫无目标'}
+{'word': 'induction', 'part_speech': ' n', 'meaning': ' 就职,感应,归纳法,序言'}
